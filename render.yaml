@@ -3,7 +3,7 @@ services:
     name: foodmatch-ai-api
     env: python
     envVars:
-      PYTHON_VERSION: 3.10.14
+      PYTHON_VERSION: 3.11.9 
     plan: free
     buildCommand: "pip install -r requirements.txt"
     startCommand: "uvicorn main:app --host 0.0.0.0 --port 10000"
