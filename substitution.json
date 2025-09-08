@@ -1,0 +1,16 @@
+{
+  "shrimp": ["prawns"],
+  "prawns": ["shrimp"],
+  "cilantro": ["coriander"],
+  "coriander": ["cilantro"],
+  "zucchini": ["courgettes"],
+  "courgettes": ["zucchini"],
+  "egg plants": ["aubergine"],
+  "aubergine": ["egg plants"],
+  "bell pepper": ["capsicum"],
+  "capsicum": ["bell pepper"],
+
+  "scallions": ["green onion", "spring onion"],
+  "green onion": ["scallions", "spring onion"],
+  "spring onion": ["scallions", "green onion"]
+}
