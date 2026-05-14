@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27751627/README.md)
 # 🍽️ FoodMatch – AI-Powered Recipe Search Application
 
 A mobile application that recommends recipes based on available ingredients using AI/NLP techniques.
